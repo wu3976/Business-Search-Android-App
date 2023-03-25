@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DetailActivity">
+    <item android:id="@+id/facebook_icon" android:icon="@drawable/facebook"
+        app:showAsAction="ifRoom" android:title="share_facebook" />
+    <item android:id="@+id/twitter_icon" android:icon="@drawable/twitter"
+        app:showAsAction="ifRoom" android:title="share_twitter" />
+</menu>
