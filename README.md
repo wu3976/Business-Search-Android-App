@@ -1,0 +1,1 @@
+Developed a business search mobile app for Android 12 (API 31). Implemented searching for businesses by name, distance, and category, view details and map locations, as well as sharing on social media or making reservations.
